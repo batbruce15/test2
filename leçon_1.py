@@ -1,0 +1,5 @@
+tup=(4,8,7,5,6)
+print(tup)
+tup2=list(tup)
+tup2.append(44)
+print(tup2)
