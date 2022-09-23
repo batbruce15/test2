@@ -27,3 +27,6 @@ print(myTule3)
 myTule4= myTule3*6
 print(myTule4.count("Karim"))
 print(myTule4.index("Karim"))
+
+#j'ai ajouter un commenttaire pour comprendre Pull requite
+print("j'ai ajjouter un print pour comprendre pull request ")
